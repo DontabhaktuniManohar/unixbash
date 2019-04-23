@@ -1,2 +1,0 @@
-# unixbash
-unixbash
